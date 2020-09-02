@@ -1,7 +1,10 @@
 # OnFoot
 ECE297 Geographic Information System (GIS) Semester Project
 
+ECE297 assign students with this project every year. The code is private to avoid any academic offenses.
+
 Check out the demo video [here.](https://canlasla.github.io/personal-website/gis)
+More details can be found [here.](https://canlasla.github.io/personal-website/projects)
 
 This project was divided into four milestones:
 
